@@ -16,6 +16,9 @@ Visual Studio Code is an open-source text editor from Microsoft.
 
 ## Extensions
 
-### Reccomendations
+### JP's Favorites
 
-Live Share, Prettier, Resource Monitor, One Monokai Theme
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+- [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
