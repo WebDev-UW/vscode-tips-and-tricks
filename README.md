@@ -6,13 +6,27 @@ Visual Studio Code is a free, (mostly) open-source text editor from Microsoft. I
 
 ## Installing
 
+https://code.visualstudio.com/Download
+
 ## Getting Started
+
+You'll probably recognize VS Code's user interface from other code editors. There's a sidebar on the left, a status bar at the bottom, and the primary editing space in the center right.
+
+**Use `Ctrl` + `Shift/Command` + `P` to access all avaliable commands.**
 
 ### Explorer
 
-### Search
+The Explorer tab is used to browse, open, and manage all of the files and folders in your project. You'll probably use the Explorer every time you use VS Code.
 
 ### Source Control
+
+The Source Control tab is used to view changes, write commit messages, and push/pull your code.
+
+### Search
+
+The Search tab is used to find text across your entire project. You can use it to find classes, strings, or anything else hiding deep in your project.
+
+Sidenote: use the Find command to find text in a specific file.
 
 ## Extensions
 
@@ -28,3 +42,9 @@ Take a look! Click on the Extensions icon in the sidebar and search for whatever
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 - [.gitignore Generator](https://marketplace.visualstudio.com/items?itemName=piotrpalarz.vscode-gitignore-generator)
+
+## Shortcuts
+
+- `Ctrl` + `Shift/Command` + `P`: list all commands
+- `Shift/Command` + `P`: open a file quickly
+- `Ctrl` + `Shift/Command` + `~`: start a new terminal session
