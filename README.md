@@ -36,6 +36,10 @@ Extensions are the bread and butter of VS Code. You can use them to customize VS
 
 Take a look! Click on the Extensions icon in the sidebar and search for whatever floats your boat. There's probably an extension avaliable for anything you can imagine; [if there isn't, make one!](https://code.visualstudio.com/api/get-started/your-first-extension)
 
+### Themes
+
+You can update your theme using the `Preferences: Color Theme` command.
+
 ### JP's Favorites
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
