@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Visual Studio Code is an open-source text editor from Microsoft.
+Visual Studio Code is a free, (mostly) open-source text editor from Microsoft. It offers a fully-customizable coding workspace with syntax highlighting, code autocomplete, built-in Git, and advanced debugging tools.
 
 ## Installing
 
